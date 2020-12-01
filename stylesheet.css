@@ -1,0 +1,30 @@
+
+p.cit {
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-image: URL(PC.JPEG);
+}
+
+.submit {
+  color: black;
+  background-color: white;
+  border-radius: 12px;
+  margin-left: 700px;
+padding: 10px;
+font-size: 20px;
+font-family: 'Oswald', sans-serif;
+font-weight: bolder;
+}
+
+button:hover {
+  font-size: 35px;
+  color: white;
+  background-color: black;
+  border: solid 2px white;
+  margin-left: 645px;
+}

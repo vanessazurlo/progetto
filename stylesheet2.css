@@ -1,0 +1,63 @@
+body {
+  background-image: URL(SOFT.PNG)
+}
+
+*
+{
+  padding: 0px;
+  margin: 0px;
+}
+
+.menu ul {
+  padding: 30px;
+text-align: center;
+background-color: black;
+border-radius: 20px;
+margin-left: 0;
+border-top: red 2px solid;
+border-right: orange 2px solid;
+border-bottom: navy 2px solid;
+border-left: black 2px solid;
+
+}
+.menu ul li {
+  display: inline;
+  margin: 0;
+  padding-top: 200px;
+
+
+}
+.menu ul li a {
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Open Sans Condensed', sans-serif;
+color: white;
+background-color: black;
+margin:60PX;
+
+}
+.menu ul li a:hover {
+  color: black;
+  background-color: blue;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 40px;
+font-weight: bolder;
+}
+
+.soft {
+  position: relative;
+  float: right;
+  top:36px;
+  right: 340px;
+  font-size: 30px;
+  color:black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bolder;
+
+}
+.soft li {
+padding: 5px;
+}
+
+}
